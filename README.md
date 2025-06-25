@@ -40,7 +40,7 @@ After analyzing the Netflix dataset, several interesting insights emerged:
 - **Top genres** include Documentaries, Dramas, Comedies, and International content, reflecting the platform’s focus on varied storytelling.
 - The **most frequent words in Netflix titles** are generic and include terms like "Love", "Life", and "Story", suggesting common themes across media.
 
-![Content Type Distribution](images/content_type_distribution.png)
+![Most common words on Netflix](images/title_wordcloud.png)
 
 
 These findings provide a basic but solid understanding of Netflix’s global catalog and can help inform further research, such as regional preferences, user recommendations, or content strategy.
